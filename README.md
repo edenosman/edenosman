@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @edenosman
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Software Development 
+- 💞️ I’m looking to collaborate on Software projects
+- 📫 How to reach me: later
